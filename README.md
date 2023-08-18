@@ -24,7 +24,7 @@ Este repositório contém o código fonte e a lógica do backend que permite a c
 
 - [Moisés Almeida](https://www.github.com/MoisesssDev)
 - [Marcos Leroy](https://github.com/MarcosLeroy)
-- [Guilherme Oliveira](https://www.github.com/MoisesssDev)
+- [Guilherme Oliveira](https://github.com/guioliva)
 
 ## Frontend do Projeto
 Confira também a parte frontend do projeto Udecora através deste [link](https://udecora.netlify.app/).
