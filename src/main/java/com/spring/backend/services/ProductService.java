@@ -32,7 +32,7 @@ public class ProductService {
 	public Page<ProductDTO> findAllPaged(PageRequest pageRequest) {
 		Page<Product> pages = ProductRepository.findAll(pageRequest);
 
-		return pages.map(x -> new ProductDTO(x));
+		return pages.map(x -> new ProductDTO(x, x.getCategories()));
 	}
 
 	public ProductDTO findById(Long id) {
